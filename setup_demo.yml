@@ -27,7 +27,7 @@
             inventory: "Demo Inventory"
             project: "Ansible official demo project"
             playbook: "feedback.yml"
-            execution_environment: Default execution environment
+            execution_environment: product-demos
             notification_templates_started: Telemetry
             notification_templates_success: Telemetry
             notification_templates_error: Telemetry
