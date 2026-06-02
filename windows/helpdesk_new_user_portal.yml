@@ -21,6 +21,7 @@
         groups:
           - "GroupA"
           - "GroupB"
+        group_action: add
         street: "{{ street }}"
         city: "{{ city }}"
         state_province: IN
